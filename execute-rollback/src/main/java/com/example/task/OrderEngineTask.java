@@ -3,7 +3,7 @@ package com.example.task;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-public class OrderEngineTask extends TaskContext{
+public class OrderEngineTask extends TaskContext {
 
     @Override
     public void execute() throws Exception {
